@@ -1,0 +1,19 @@
+{
+  "persons": [
+    {
+      "name": "R.C.A Roofing ",
+      "number": "+75 044 666",
+      "id": "XGKrAKE"
+    },
+    {
+      "name": "Arto Hellas ",
+      "number": "909-12345",
+      "id": "IUCAW6n"
+    },
+    {
+      "name": "Abel Nabel ",
+      "number": "+745 -999-666",
+      "id": "PiUQUW7"
+    }
+  ]
+}
